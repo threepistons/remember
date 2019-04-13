@@ -23,7 +23,7 @@ Build instructions:
 
     clone it.
     Put your rtm api key in apikey.h
-    Clone kdeplasma-addons from git.kde.org
+    Clone kdeplasma-addons from https://github.com/KDE/kdeplasma-addons
     Symlink kdeplasma-addons/libs/rtm from remember directory
     Open rememberapp.pro from within Qt SDK creator.
     Add QTONLY=1 to qmake arguments for project.
